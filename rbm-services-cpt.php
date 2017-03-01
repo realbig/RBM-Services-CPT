@@ -3,7 +3,7 @@
 Plugin Name: RBM Services CPT
 Plugin URL: https://github.com/realbig/RBM-Services-CPT
 Description: Services CPT moved from CPT-onomies
-Version: 0.1.0
+Version: 0.1.1
 Text Domain: rbm-services-cpt
 Author: Eric Defore
 Author URL: http://realbigmarketing.com
